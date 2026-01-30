@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+aiomysql
+pydantic[email]
+python-jose[cryptography]
+python-multipart
+python-dotenv
+aiofiles
+emails
+google-auth
+requests
